@@ -2,6 +2,8 @@ Revision history for Perl extension {{$dist->name}}
 
 {{$NEXT}}
 
+  - Allow specifying variables to ignore.
+
 2.000007  2015-01-22
   - Remove requirement for Moose::Autobox in tests [kentnl, GH #6]
 
